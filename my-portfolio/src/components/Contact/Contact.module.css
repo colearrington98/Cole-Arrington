@@ -1,68 +1,43 @@
-.container {
-padding :20px;
+.contact {
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  height: 100vh;
+  margin: 0 auto;
+  padding: 20px;
 }
 
-.title {
-  font-size: 24px;
-  margin-bottom: 10px;
-  color : #333;
+.contact h2 {
+  font-size: 2em;
+  color: #333;
+  margin-bottom: 20px;
 }
 
-.contact-form {
+.contact form {
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
 }
 
-.input-fields {
-  display: flex;
-  flex-direction: column;
-  margin-bottom: 15px;
-}
-
-.input-fields,
-.msg {
+.contact input,
+.contact textarea {
   width: 100%;
-}
-
-.input-fields label,
-.msg label {
-  margin-bottom: 5px;
-  color : #333;
-}
-
-.input-fields input,
-.msg textarea {
-  padding: 5px;
-  border: 1px solid #ccc;
-  border-radius: 5px;
-  outline: none;
-}
-
-.msg textarea {
-  height: 100px;
-}
-
-.btn {
-  width: 100%;
+  max-width: 400px;
   padding: 10px;
+  margin-bottom: 10px;
+}
+
+.contact textarea {
+  height: 150px;
+}
+
+.contact button {
+  padding: 10px 20px;
+  background-color: #333;
+  color: #fff;
   border: none;
   border-radius: 5px;
-  background: #333;
-  color: #fff;
-  font-size: 18px;
   cursor: pointer;
 }
 
-.btn:hover {
-  background: #fff;
-  color: #333;
-  transition: all 0.3s ease-in-out;
-}
 

@@ -6,8 +6,7 @@ function Resume() {
         <section className={styles.resume}>
             <h2>Resume</h2>
             <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec
-                aliquet velit eget velit tincidunt, sed luctus enim maximus.
+               <a href="https://www.linkedin.com/in/colearrington/overlay/1635523170248/single-media-viewer?type=DOCUMENT&profileId=ACoAACx4Y9cBzSkzI7rja49tQzYu-YlsJ33Gtk8&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BUFmPfZlHQtWypPYiQuDKIg%3D%3D" download>Download my resume</a>
                 </p>
             <h3>Front-end Proficiencies</h3>
             <ul>

@@ -3,12 +3,12 @@ const projects = [
         title: 'Busy Planner',
         image: 'https://user-images.githubusercontent.com/119268105/230006783-daea9eca-b41a-4860-86c9-5a8b03c5498e.png',
         deployedLink: 'https://colearrington98.github.io/busy-planner/',
-        repoLink: 'https: //github.com/colearrington98/busy-planner'
+        repoLink: 'https://github.com/colearrington98/Busy-Planner'
     },
     {
         title : 'Note Worthy',
         image : 'https://user-images.githubusercontent.com/119268105/230006783-daea9eca-b41a-4860-86c9-5a8b03c5498e.png',
-        deployedLink : 'https://note-worthy-app.herokuapp.com/',
+        deployedLink : 'https://note-worthy1.herokuapp.com/',
         repoLink : 'https://github.com/colearrington98/Note-Worthy'
     },
     {
