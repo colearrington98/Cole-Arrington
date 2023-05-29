@@ -1,17 +1,17 @@
 import styles from './About.module.css';
 import React from 'react';
+import myImage from '../../images/my-image.jpg';
+
 
 function About() {
     return (
         <section className={styles.about}>
             <h2>About Me</h2>
-            <img src="https://via.placeholder.com/150" alt="Cole Arrington" />
+            <img src={myImage} alt="Cole Arrington" />
             <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec
-                aliquet velit eget velit tincidunt, sed luctus enim maximus.
-                Donec euismod, nisl id aliquam ultricies, nunc sapien
-                sollicitudin quam, quis aliquam elit nisl vitae nunc. Nulla
-                facilisi. Nulla facilisi. Nulla facilisi. Nulla facilisi. Nulla
+            Hello, my name is Cole Arrington, I am a Full Stack Web Developer located in Nashville, TN.
+I am a current student of the Vanderbilt Web Development Bootcamp and set to graduate May 2023.
+I enjoy implementing what I am learning into innovtive projects. I am eager to learn and open to any new adventures that is thrown my way.
             </p>
         </section>
     );

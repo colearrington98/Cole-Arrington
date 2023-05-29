@@ -1,6 +1,7 @@
 import React from 'react';
+import projects from '../../projectSeed.js';
 
-const Project = ({ project }) => {
+const Project = ({ project = {} }) => {
     const { title, image, deployedLink, repoLink } = project;
     return (
         <div className="project">
@@ -13,4 +14,14 @@ const Project = ({ project }) => {
         </div>
     );
 };
-export default Project;
+
+const Projects = () => (
+    <div className="projects">
+        {projects.map((project, index) => <Project key={index} project={project} />)}
+    </div>
+)
+
+export default Projects;
+
+
+
