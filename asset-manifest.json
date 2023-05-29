@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/colearrington98/Cole-Arrington/static/css/main.74c5a655.css",
-    "main.js": "/colearrington98/Cole-Arrington/static/js/main.89d748a4.js",
-    "static/js/787.128fc6e9.chunk.js": "/colearrington98/Cole-Arrington/static/js/787.128fc6e9.chunk.js",
-    "index.html": "/colearrington98/Cole-Arrington/index.html",
-    "main.74c5a655.css.map": "/colearrington98/Cole-Arrington/static/css/main.74c5a655.css.map",
-    "main.89d748a4.js.map": "/colearrington98/Cole-Arrington/static/js/main.89d748a4.js.map",
-    "787.128fc6e9.chunk.js.map": "/colearrington98/Cole-Arrington/static/js/787.128fc6e9.chunk.js.map"
+    "main.css": "/Cole-Arrington/static/css/main.74c5a655.css",
+    "main.js": "/Cole-Arrington/static/js/main.9ae962b1.js",
+    "static/js/787.128fc6e9.chunk.js": "/Cole-Arrington/static/js/787.128fc6e9.chunk.js",
+    "index.html": "/Cole-Arrington/index.html",
+    "main.74c5a655.css.map": "/Cole-Arrington/static/css/main.74c5a655.css.map",
+    "main.9ae962b1.js.map": "/Cole-Arrington/static/js/main.9ae962b1.js.map",
+    "787.128fc6e9.chunk.js.map": "/Cole-Arrington/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.74c5a655.css",
-    "static/js/main.89d748a4.js"
+    "static/js/main.9ae962b1.js"
   ]
 }
