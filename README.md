@@ -2,7 +2,7 @@
 
 # My Portfolio Website
 
-Deployed Link https://colearrington98.github.io/about
+Deployed Link https://colearrington98.github.io/Cole-Arrington/
 
 This is a portfolio website that showcases my skills, projects, and contact information. It is built using React and includes multiple components such as About, Projects, Resume, and Contact.
 
