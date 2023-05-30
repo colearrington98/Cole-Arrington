@@ -4,6 +4,9 @@
 
 Deployed Link https://colearrington98.github.io/Cole-Arrington/
 
+<img width="1273" alt="image" src="https://github.com/colearrington98/Cole-Arrington/assets/119268105/c1c734cf-db63-4edd-acc7-359ec839e49c">
+
+
 This is a portfolio website that showcases my skills, projects, and contact information. It is built using React and includes multiple components such as About, Projects, Resume, and Contact.
 
 ## Table of Contents
